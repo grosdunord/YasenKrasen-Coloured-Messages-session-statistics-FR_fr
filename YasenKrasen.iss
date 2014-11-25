@@ -20,10 +20,10 @@ DefaultDirName={sd}\Games\World_of_Tanks
 DefaultGroupName={#MyAppName}
 OutputBaseFilename=YasenKrasen_FR
 InternalCompressLevel=ultra
-WizardImageFile=C:\Users\sébastien\Downloads\YasenKrasen\image\image1.bmp
-WizardSmallImageFile=C:\Users\sébastien\Downloads\YasenKrasen\image\image2.bmp
-SetupIconFile=C:\Users\sébastien\Downloads\YasenKrasen\image\image2.ico
-UninstallDisplayIcon=C:\Users\sébastien\Downloads\YasenKrasen\image\image2.ico
+WizardImageFile=C:\Users\sÃ©bastien\Downloads\YasenKrasen\image\image1.bmp
+WizardSmallImageFile=C:\Users\sÃ©bastien\Downloads\YasenKrasen\image\image2.bmp
+SetupIconFile=C:\Users\sÃ©bastien\Downloads\YasenKrasen\image\image2.ico
+UninstallDisplayIcon=C:\Users\sÃ©bastien\Downloads\YasenKrasen\image\image2.ico
 Compression=lzma2/ultra64
 SolidCompression=yes
 
@@ -47,12 +47,12 @@ Name: "YasenKrasen_Graphical_0_9_4_1"; Description: "YasenKrasen Graphique"; Typ
 Name: "YasenKrasen_Ingame_Skulls_0_9_4_1"; Description: "YasenKrasen In Game Skull"; 
 
 [Files]
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_V1_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V1_0_9_4_4 ;
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_V2_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V2_0_9_4_4 ;
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_V3_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V3_0_9_4_4 ;
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_Vanilla_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_Vanilla_0_9_4_4 ;
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_Graphical_0_9_4_1\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen_Graphical_0_9_4_1 ;
-Source: "C:\Users\sébastien\Downloads\YasenKrasen\mods\YasenKrasen_Ingame_Skulls_0_9_4_1\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen_Ingame_Skulls_0_9_4_1 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_V1_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V1_0_9_4_4 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_V2_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V2_0_9_4_4 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_V3_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_V3_0_9_4_4 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_Vanilla_0_9_4_4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen/YasenKrasen_Vanilla_0_9_4_4 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_Graphical_0_9_4_1\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen_Graphical_0_9_4_1 ;
+Source: "C:\Users\sÃ©bastien\Downloads\YasenKrasen\mods\YasenKrasen_Ingame_Skulls_0_9_4_1\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs ;Components: YasenKrasen_Ingame_Skulls_0_9_4_1 ;
 
 [Run]
 // User selected... these files are shown for launch after everything is done
@@ -92,7 +92,3 @@ procedure InitializeWizard();
 begin
   CreateAboutButton(WizardForm, WizardForm.CancelButton);
 end;
-
-
-
-
