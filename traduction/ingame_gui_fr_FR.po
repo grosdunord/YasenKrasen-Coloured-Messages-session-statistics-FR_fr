@@ -1,0 +1,1265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2014-11-23 17:33+0100\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: Équipe WoT <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.10\n"
+
+msgid "chat_example/attack"
+msgstr "À l'attaque !"
+
+msgid "chat_example/attack_enemy"
+msgstr "J'attaque <nom de l'ennemi> !"
+
+msgid "chat_example/attention_to_cell"
+msgstr "Attention au secteur <secteur de la minicarte> !"
+
+msgid "chat_example/back_to_base"
+msgstr "Défendez la base !"
+
+msgid "chat_example/follow_me"
+msgstr "<Nom de l'allié>, suivez-moi !"
+
+msgid "chat_example/help_me"
+msgstr "À l'aide !"
+
+msgid "chat_example/help_me_ex"
+msgstr "<Nom de l'allié>, à l'aide !"
+
+msgid "chat_example/negative"
+msgstr "Négatif !"
+
+msgid "chat_example/positive"
+msgstr "Affirmatif !"
+
+msgid "chat_example/reloading_cassette"
+msgstr ""
+"Prêt à tirer dans <temps de rechargement> s, obus dans le barillet : <nombre "
+"d'obus> unité(s)."
+
+msgid "chat_example/reloading_gun"
+msgstr "Je recharge ! Il reste <temps de rechargement> s !"
+
+msgid "chat_example/reloading_ready"
+msgstr "Prêt à tirer !"
+
+msgid "chat_example/reloading_ready_cassette"
+msgstr "Prêt à tirer ! Obus dans le barillet : <nombre d'obus> unité(s)."
+
+msgid "chat_example/reloading_unavailable"
+msgstr "Plus de munitions."
+
+msgid "chat_example/stop"
+msgstr "<Nom de l'allié>, halte !"
+
+msgid "chat_example/support_me_with_fire"
+msgstr "Appui contre <nom de l'ennemi> requis"
+
+msgid "chat_example/turn_back"
+msgstr "<Nom de l'allié>, en arrière !"
+
+msgid "chat_shortcuts/attack"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/"
+"TournamentBattleResultIcon.png' width='16' height='16' align='baseline' "
+"vspace='-3'> <font color='#fff09d'>À l'attaque !</font>"
+
+msgid "chat_shortcuts/attack_enemy"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/BattleResultIcon.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#fff09d'>J'attaque</font> <font color='#FF2414'> %(target)s !</font>"
+
+msgid "chat_shortcuts/attention_to_cell"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Action.png' width='16' "
+"height='16' align='baseline' vspace='-8'> <font color='#fff09d'>Attention au "
+"secteur </font><font color='#FF2414'> %(cellName)s !</font>"
+
+msgid "chat_shortcuts/back_to_base"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/ClanBattleResultIcon.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#fff09d'>Défendez la base !</font>"
+
+msgid "chat_shortcuts/follow_me"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/TankGreen.png' width='16' "
+"height='16' align='baseline' vspace='-3'> <font color='#00ff00'>%(target)s</"
+"font>,<font color='#c4c4ff'> , suivez-moi !</font>"
+
+msgid "chat_shortcuts/help_me"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Compensation.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FF2414'>À "
+"l'aide !</font>"
+
+msgid "chat_shortcuts/help_me_ex"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Compensation.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#00ff00'>"
+"%(target)s,</font><font color='#FF2414'> , à l'aide !</font>"
+
+msgid "chat_shortcuts/negative"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#FF2414'>Négatif !</font>"
+
+msgid "chat_shortcuts/positive"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#00ff00'>Affirmatif !</font>"
+
+msgid "chat_shortcuts/reloading_cassette"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Support.png' width='16' "
+"height='16' align='baseline' vspace='-4'>Prêt à tirer dans <font "
+"color='#F7F7F7'>%(floatArg1)d</font> s, obus dans le barillet : <font "
+"color='#F7F7F7'>%(int32Arg1)s</font> unité(s)."
+
+msgid "chat_shortcuts/reloading_gun"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Reloading.png' width='16' "
+"height='16' align='baseline' vspace='-3'> <font color='#FF2414'>Je "
+"recharge ! </font> <font color='#F7F7F7'>Il reste %(floatArg1)d</font> s !"
+
+msgid "chat_shortcuts/reloading_ready"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#00ff00'>Prêt à tirer !</font>"
+
+msgid "chat_shortcuts/reloading_ready_cassette"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#00ff00'>Prêt à tirer ! </font> <font color='#929292'>Obus dans le "
+"barillet : </font> <font color='#F7F7F7'>%(int32Arg1)s</font> <font "
+"color='#929292'>unité(s).</font>"
+
+msgid "chat_shortcuts/reloading_unavailable"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font "
+"color='#FF2414'>Plus de munitions.</font>"
+
+msgid "chat_shortcuts/stop"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/ErrorIcon.png' width='16' "
+"height='16' align='baseline' vspace='-3'> <font color='#00ff00'>%(target)s</"
+"font>, <font color='#FF2414'> halte!</font>"
+
+msgid "chat_shortcuts/support_me_with_fire"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Support.png' width='16' "
+"height='16' align='baseline' vspace='-4'> <font color='#fff09d'>Appui "
+"contre</font><font color='#FF2414'> %(target)s requis</font>"
+
+msgid "chat_shortcuts/turn_back"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Turn.png' width='16' "
+"height='16' align='baseline' vspace='-3'> <font color='#00ff00'>%(target)s</"
+"font>,<font color='#FF2414'> en arrière !</font>"
+
+msgid "consumables_panel/equipment/tooltip/empty"
+msgstr "Emplacement de consommable"
+
+msgid "cruise_ctrl/speedMetric"
+msgstr "km/h"
+
+msgid "damage_panel/crew/commander/destroyed"
+msgstr "Chef de char blessé."
+
+msgid "damage_panel/crew/commander/normal"
+msgstr "Chef de char"
+
+msgid "damage_panel/crew/driver/destroyed"
+msgstr "Pilote blessé."
+
+msgid "damage_panel/crew/driver/normal"
+msgstr "Pilote de char"
+
+msgid "damage_panel/crew/gunner1/destroyed"
+msgstr "Tireur blessé."
+
+msgid "damage_panel/crew/gunner1/normal"
+msgstr "Tireur"
+
+msgid "damage_panel/crew/gunner2/destroyed"
+msgstr "Tireur n°2 blessé."
+
+msgid "damage_panel/crew/gunner2/normal"
+msgstr "Tireur n°2"
+
+msgid "damage_panel/crew/loader1/destroyed"
+msgstr "Chargeur blessé."
+
+msgid "damage_panel/crew/loader1/normal"
+msgstr "Chargeur"
+
+msgid "damage_panel/crew/loader2/destroyed"
+msgstr "Chargeur n°2 blessé."
+
+msgid "damage_panel/crew/loader2/normal"
+msgstr "Chargeur n°2"
+
+msgid "damage_panel/crew/radioman1/destroyed"
+msgstr "Opérateur radio blessé."
+
+msgid "damage_panel/crew/radioman1/normal"
+msgstr "Opérateur radio"
+
+msgid "damage_panel/crew/radioman2/destroyed"
+msgstr "Opérateur radio n°2 blessé."
+
+msgid "damage_panel/crew/radioman2/normal"
+msgstr "Opérateur radio n°2"
+
+msgid "damage_panel/devices/ammoBay/critical"
+msgstr "Râtelier de munitions endommagé."
+
+msgid "damage_panel/devices/ammoBay/destroyed"
+msgstr "Râtelier de munitions détruit."
+
+msgid "damage_panel/devices/ammoBay/normal"
+msgstr "Râtelier de munitions intact."
+
+msgid "damage_panel/devices/engine/critical"
+msgstr "Moteur endommagé. Puissance réduite."
+
+msgid "damage_panel/devices/engine/destroyed"
+msgstr "Immobilisé : moteur détruit."
+
+msgid "damage_panel/devices/engine/normal"
+msgstr "Moteur intact."
+
+msgid "damage_panel/devices/fuelTank/critical"
+msgstr "Réservoir endommagé."
+
+msgid "damage_panel/devices/fuelTank/destroyed"
+msgstr "Réservoir détruit."
+
+msgid "damage_panel/devices/fuelTank/normal"
+msgstr "Réservoir intact."
+
+msgid "damage_panel/devices/gun/critical"
+msgstr "Canon endommagé. Précision réduite."
+
+msgid "damage_panel/devices/gun/destroyed"
+msgstr "Canon détruit : impossible de tirer."
+
+msgid "damage_panel/devices/gun/normal"
+msgstr "Canon intact."
+
+msgid "damage_panel/devices/radio/critical"
+msgstr "Radio endommagée."
+
+msgid "damage_panel/devices/radio/destroyed"
+msgstr "Radio détruite."
+
+msgid "damage_panel/devices/radio/normal"
+msgstr "Radio intacte."
+
+msgid "damage_panel/devices/surveyingDevice/critical"
+msgstr "Périscope endommagé."
+
+msgid "damage_panel/devices/surveyingDevice/destroyed"
+msgstr "Le périphérique d'observation détruit."
+
+msgid "damage_panel/devices/surveyingDevice/normal"
+msgstr "Appareil d'observation intact."
+
+msgid "damage_panel/devices/track/critical"
+msgstr "Suspension endommagée."
+
+msgid "damage_panel/devices/track/destroyed"
+msgstr "Immobilisé : Suspension détruite."
+
+msgid "damage_panel/devices/track/normal"
+msgstr "Suspension intacte."
+
+msgid "damage_panel/devices/turretRotator/critical"
+msgstr "Tourelle endommagée. Vitesse de rotation réduite."
+
+msgid "damage_panel/devices/turretRotator/destroyed"
+msgstr "Impossible de pivoter : tourelle détruite."
+
+msgid "damage_panel/devices/turretRotator/normal"
+msgstr "Tourelle intacte."
+
+msgid "devices/ammo_bay"
+msgstr "râtelier de munitions"
+
+msgid "devices/chassis"
+msgstr "suspension"
+
+msgid "devices/engine"
+msgstr "moteur"
+
+msgid "devices/fuel_tank"
+msgstr "réservoir"
+
+msgid "devices/gun"
+msgstr "canon"
+
+msgid "devices/left_track"
+msgstr "chenille gauche"
+
+msgid "devices/radio"
+msgstr "radio"
+
+msgid "devices/right_track"
+msgstr "chenille droite"
+
+msgid "devices/surveing_device"
+msgstr "Appareil d'observation"
+
+msgid "devices/turret_rotator"
+msgstr "tourelle"
+
+msgid "player_errors/cant_move/chassis_damaged"
+msgstr "Immobilisé : suspension endommagée."
+
+msgid "player_errors/cant_move/crew_inactive"
+msgstr "Immobilisé : équipage hors de combat."
+
+msgid "player_errors/cant_move/engine_damaged"
+msgstr "Immobilisé : moteur endommagé."
+
+msgid "player_errors/cant_move/vehicle_destroyed"
+msgstr "Immobilisé : char détruit."
+
+msgid "player_errors/cant_shoot/crew_inactive"
+msgstr "Tir impossible : équipage hors de combat."
+
+msgid "player_errors/cant_shoot/gun_damaged"
+msgstr "Tir impossible : canon endommagé."
+
+msgid "player_errors/cant_shoot/gun_locked"
+msgstr "Impossible de tirer"
+
+msgid "player_errors/cant_shoot/gun_reload"
+msgstr "Chargement du canon"
+
+msgid "player_errors/cant_shoot/no_ammo"
+msgstr "Tir impossible : plus de munitions."
+
+msgid "player_errors/cant_shoot/vehicle_destroyed"
+msgstr "Tir impossible : char détruit."
+
+msgid "player_errors/equipment/alreadyActivated"
+msgstr "Le consommable [%(name)s] est déjà actif."
+
+msgid "player_errors/equipment/extinguisher/doesNotActivated"
+msgstr "le consommable [%(name)s] est inactif : pas d'incendie."
+
+msgid "player_errors/equipment/medkit/allTankmenAreSafe"
+msgstr "Aide médicale non nécessaire : aucun blessé."
+
+msgid "player_errors/equipment/medkit/tankmanIsSafe"
+msgstr "[%(entity)s] n'a pas besoin d'aide médicale."
+
+msgid "player_errors/equipment/repairkit/allDevicesAreNotDamaged"
+msgstr "Réparation non nécessaire : tous les éléments sont intacts."
+
+msgid "player_errors/equipment/repairkit/deviceIsNotDamaged"
+msgstr "[%(entity)s] est opérationnel, aucune réparation nécessaire."
+
+msgid "player_messages/ALLY_HIT"
+msgstr "Vous avez touché l'allié %(entity)s !"
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ALLY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <img src='img://gui/maps/icons/library/YasenKrasen/Skull."
+"png' width='24' height='22' align='baseline' vspace='-3'> <font "
+"color='#74C500'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ALLY_ENEMY"
+msgstr ""
+"<font color='#74C500'>%(attacker)s</font> <img src='img://gui/maps/icons/"
+"library/YasenKrasen/Skull.png' width='24' height='22' align='baseline' "
+"vspace='-3'> <font color='#FA1100'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ALLY_SELF"
+msgstr "Le véhicule a été détruit par l'allié %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ALLY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'allié</font> <font color='#74C500'>%(target)s</font> <font "
+"color='#E0E0E0'>a disparu dans la bataille.</font>"
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ENEMY_ALLY"
+msgstr ""
+"<font color='#FA1100'>%(attacker)s</font> <img src='img://gui/maps/icons/"
+"library/YasenKrasen/Skull.png' width='24' height='22' align='baseline' "
+"vspace='-3'> <font color='#74C500'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ENEMY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <img src='img://gui/maps/icons/library/YasenKrasen/Skull."
+"png' width='24' height='22' align='baseline' vspace='-3'> <font "
+"color='#FA1100'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ENEMY_SELF"
+msgstr "Le véhicule a été détruit par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_ENEMY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>Enemy</font> <font color='#FA1100'>%(target)s</font> <font "
+"color='#E0E0E0'> a disparu dans la bataille.</font>"
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_SELF_ALLY"
+msgstr "L'allié %(target)s est détruit."
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_SELF_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> %(target)s"
+
+msgid "player_messages/DEATH_FROM_DEATH_ZONE_SELF_SUICIDE"
+msgstr "Le véhicule est détruit."
+
+msgid "player_messages/DEATH_FROM_DEVICE_EXPLOSION_AT_FIRE"
+msgstr "L'élément [%(device)s] vient d'exploser suite à l'incendie."
+
+msgid "player_messages/DEATH_FROM_DEVICE_EXPLOSION_AT_SHOT"
+msgstr "L'élément [%(device)s] a été détruit par un tir de %(entity)s."
+
+msgid "player_messages/DEATH_FROM_DROWNING_ALLY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a coulé </font> <font "
+"color='#74C500'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_ALLY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a coulé </font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_ALLY_SELF"
+msgstr "Le véhicule a été coulé par l'allié %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_DROWNING_ALLY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'allié</font> <font color='#74C500'>%(target)s</font> <font "
+"color='#E0E0E0'>a coulé.</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_ENEMY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a coulé</font> <font "
+"color='#74C500'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_ENEMY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a coulé</font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_ENEMY_SELF"
+msgstr "Le véhicule a été coulé par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_DROWNING_ENEMY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>Enemy</font> <font color='#FA1100'>%(target)s</font> <font "
+"color='#E0E0E0'>a coulé.</font>"
+
+msgid "player_messages/DEATH_FROM_DROWNING_SELF_ALLY"
+msgstr "L'allié %(target)s a été coulé."
+
+msgid "player_messages/DEATH_FROM_DROWNING_SELF_ENEMY"
+msgstr "%(target)s a été coulé."
+
+msgid "player_messages/DEATH_FROM_DROWNING_SELF_SUICIDE"
+msgstr "Le véhicule a coulé."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW"
+msgstr "L'équipage est hors de combat."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_SHOT"
+msgstr "L'équipage a été blessé par un tir de %(entity)s."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ALLY_ALLY"
+msgstr ""
+"L'équipage de l'allié %(target)s a été détruit par l'allié %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ALLY_ENEMY"
+msgstr "L'équipage de %(target)s a été détruit par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ALLY_SELF"
+msgstr "L'équipage a été détruit par l'allié %(attacker)s."
+
+msgid ""
+"player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ALLY_SUICIDE"
+msgstr "L'allié %(target)s a détruit son équipage."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ENEMY_ALLY"
+msgstr "L'équipage de %(target)s a été détruit par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ENEMY_ENEMY"
+msgstr ""
+"L'équipage de l'ennemi %(target)s a été détruit par l'ennemi %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ENEMY_SELF"
+msgstr "L'équipage a été détruit par %(attacker)s."
+
+msgid ""
+"player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ENEMY_SUICIDE"
+msgstr "L'ennemi %(target)s a détruit son équipage."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_SELF_ALLY"
+msgstr "L'équipage de l'allié %(target)s a été détruit."
+
+msgid "player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_SELF_ENEMY"
+msgstr "L'équipage de %(target)s a été détruit."
+
+msgid ""
+"player_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "L'équipage a été détruit."
+
+msgid "player_messages/DEATH_FROM_RAMMING_ALLY_ALLY"
+msgstr "L'allié %(attacker)s a détruit l'allié %(target)s."
+
+msgid "player_messages/DEATH_FROM_RAMMING_ALLY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Kamikaze.png' width='16' "
+"height='16' align='baseline' vspace='-4'> <font color='#74C500'>"
+"%(attacker)s</font> <font color='#E0E0E0'> a détruit </font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_RAMMING_ALLY_SELF"
+msgstr "Le véhicule a été détruit par l'allié %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_RAMMING_ALLY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'allié</font> <font color='#74C500'>%(target)s</font> <font "
+"color='#E0E0E0'> s'est écrasé.</font>"
+
+msgid "player_messages/DEATH_FROM_RAMMING_ENEMY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Kamikaze.png' width='16' "
+"height='16' align='baseline' vspace='-4'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a détruit </font> <font "
+"color='#74C500'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_RAMMING_ENEMY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'> a détruit l'ennemi </font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_RAMMING_ENEMY_SELF"
+msgstr "Le véhicule a été détruit par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_RAMMING_ENEMY_SUICIDE"
+msgstr "L'ennemi %(target)s s'est écrasé."
+
+msgid "player_messages/DEATH_FROM_RAMMING_SELF_ALLY"
+msgstr "L'allié %(target)s est détruit."
+
+msgid "player_messages/DEATH_FROM_RAMMING_SELF_ENEMY"
+msgstr "%(target)s est détruit."
+
+msgid "player_messages/DEATH_FROM_RAMMING_SELF_SUICIDE"
+msgstr "Le véhicule est détruit."
+
+msgid "player_messages/DEATH_FROM_SHOT_ALLY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <img src='img://gui/maps/icons/library/YasenKrasen/Skull."
+"png' width='24' height='22' align='baseline' vspace='-3'> <font "
+"color='#74C500'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_SHOT_ALLY_ENEMY"
+msgstr ""
+"<font color='#74C500'>%(attacker)s</font> <img src='img://gui/maps/icons/"
+"library/YasenKrasen/Skull.png' width='24' height='22' align='baseline' "
+"vspace='-3'> <font color='#FA1100'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_SHOT_ALLY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'allié </font> <font color='#74C500'>%(target)s</font> "
+"<font color='#E0E0E0'>a disparu dans la bataille.</font>"
+
+msgid "player_messages/DEATH_FROM_SHOT_ENEMY_ALLY"
+msgstr ""
+"<font color='#FA1100'>%(attacker)s</font> <img src='img://gui/maps/icons/"
+"library/YasenKrasen/Skull.png' width='24' height='22' align='baseline' "
+"vspace='-3'> <font color='#74C500'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_SHOT_ENEMY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <img src='img://gui/maps/icons/library/YasenKrasen/Skull."
+"png' width='24' height='22' align='baseline' vspace='-2'> <font "
+"color='#FA1100'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_SHOT_ENEMY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'ennemi </font> <font color='#FA1100'>%(target)s</font> "
+"<font color='#E0E0E0'>a disparu dans la bataille.</font>"
+
+msgid "player_messages/DEATH_FROM_SHOT_SELF_ALLY"
+msgstr "L'allié %(target)s est détruit."
+
+msgid "player_messages/DEATH_FROM_SHOT_SELF_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> %(target)s"
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ALLY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <font color='#E0E0E0'>crashed</font> <font "
+"color='#74C500'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ALLY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> <font color='#74C500'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a écrasé</font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ALLY_SELF"
+msgstr "Le véhicule a été écrasé par l'allié %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ALLY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/WarningIconRed.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'allié</font> <font color='#74C500'>%(target)s</font> <font "
+"color='#E0E0E0'>s'est écrasé.</font>"
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ENEMY_ALLY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/Skull.png' width='24' "
+"height='22' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a écrasé</font> <font "
+"color='#74C500'>%(target)s</font> "
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ENEMY_ENEMY"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'> <font color='#FA1100'>"
+"%(attacker)s</font> <font color='#E0E0E0'>a écrasé l'ennemi </font> <font "
+"color='#FA1100'>%(target)s</font>"
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ENEMY_SELF"
+msgstr "Le véhicule a été écrasé par %(attacker)s."
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_ENEMY_SUICIDE"
+msgstr ""
+"<img src='img://gui/maps/icons/library/YasenKrasen/InformationIconGreen.png' "
+"width='16' height='16' align='baseline' vspace='-3'><font "
+"color='#929292'>L'ennemi </font> <font color='#FA1100'>%(target)s</font> "
+"<font color='#E0E0E0'>s'est écrasé.</font>"
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_SELF_ALLY"
+msgstr "L'allié %(target)s s'est écrasé."
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_SELF_ENEMY"
+msgstr "%(target)s s'est écrasé."
+
+msgid "player_messages/DEATH_FROM_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "Le véhicule s'est écrasé."
+
+msgid "player_messages/DEVICE_CRITICAL_AT_FIRE"
+msgstr "L'élément [%(device)s] a été endommagé par l'incendie."
+
+msgid "player_messages/DEVICE_CRITICAL_AT_SHOT"
+msgstr "Le tir de %(entity)s a endommagé [%(device)s]."
+
+msgid "player_messages/DEVICE_DESTROYED_AT_FIRE"
+msgstr "L'élément [%(device)s] a été détruit par l'incendie."
+
+msgid "player_messages/DEVICE_DESTROYED_AT_SHOT"
+msgstr "L'élément [%(device)s] a été détruit par %(entity)s."
+
+msgid "player_messages/DEVICE_REPAIRED"
+msgstr "L'élément [%(device)s] a été réparé."
+
+msgid "player_messages/DEVICE_REPAIRED_TO_CRITICAL"
+msgstr "L'élément [%(device)s] est opérationnel."
+
+msgid "player_messages/DEVICE_STARTED_FIRE_AT_SHOT"
+msgstr "L'élément [%(device)s] a pris feu suite au tir de %(entity)s."
+
+msgid "player_messages/ENEMY_SPOTTED"
+msgstr "L'ennemi %(entity)s est repéré."
+
+msgid "player_messages/ENEMY_SPOTTED_HIT"
+msgstr "L'ennemi %(entity)s repéré est endommagé."
+
+msgid "player_messages/ENEMY_SPOTTED_HIT_PLURAL"
+msgstr "Les ennemis repérés sont endommagés."
+
+msgid "player_messages/ENEMY_SPOTTED_KILLED"
+msgstr "L'ennemi %(entity)s repéré est détruit."
+
+msgid "player_messages/ENEMY_SPOTTED_KILLED_PLURAL"
+msgstr "Les ennemis repérés sont détruits."
+
+msgid "player_messages/ENEMY_SPOTTED_PLURAL"
+msgstr "Les ennemis sont repérés."
+
+msgid "player_messages/ENGINE_CRITICAL_AT_UNLIMITED_RPM"
+msgstr ""
+"L'élément [%(device)s] a été endommagé par la suppression du régulateur de "
+"vitesse."
+
+msgid "player_messages/ENGINE_DESTROYED_AT_UNLIMITED_RPM"
+msgstr ""
+"L'élément [%(device)s] a été détruit par la suppression du régulateur de "
+"vitesse."
+
+msgid "player_messages/FIRE_STOPPED"
+msgstr "Le feu est éteint."
+
+msgid "player_messages/TANKMAN_HIT_AT_SHOT"
+msgstr "Le tir de %(entity)s a mis hors de combat [%(device)s]."
+
+msgid "player_messages/TANKMAN_RESTORED"
+msgstr "[%(device)s] est de nouveau prêt au combat."
+
+msgid "player_messages/allied_team_name"
+msgstr "Notre équipe"
+
+msgid "player_messages/ally_base_captured_by_notification"
+msgstr "Capture de la base%s alliée :"
+
+msgid "player_messages/ally_base_captured_notification"
+msgstr "Base%s alliée capturée !"
+
+msgid "player_messages/base_captured_by_notification"
+msgstr "Capture de la base%s :"
+
+msgid "player_messages/base_captured_notification"
+msgstr "Base%s capturée !"
+
+msgid "player_messages/enemy_base_captured_by_notification"
+msgstr "Capture de la base%s ennemie :"
+
+msgid "player_messages/enemy_base_captured_notification"
+msgstr "Base%s ennemie est capturée !"
+
+msgid "player_messages/enemy_team_name"
+msgstr "Équipe adverse"
+
+msgid "player_messages/horn_is_blocked"
+msgstr "Le klaxon est bloqué ; il sera disponible dans %d s"
+
+msgid "player_messages/loader_intuition_was_used"
+msgstr "L'aptitude \"Intuition\" est effective."
+
+msgid "player_messages/postmortem_caption"
+msgstr "Joueur : %(name)s (%(type)s); PS : %(health)d%%"
+
+msgid "player_messages/postmortem_userNoHasAmmo"
+msgstr "aucun obus"
+
+msgid "player_messages/replayControlsHelp1"
+msgstr "Contrôles de la relecture :"
+
+msgid "player_messages/replayControlsHelp2"
+msgstr ""
+"BGS : alterne entre les modes de caméra\n"
+"Espace : pause"
+
+msgid "player_messages/replayControlsHelp3"
+msgstr ""
+"Flèche gauche : en arrière de 20 secondes (40 secondes avec Ctrl)\n"
+"Flèche droite : en avant de 20 secondes (40 secondes avec Ctrl)\n"
+"Début/Fin : aller au début ou à la fin\n"
+"Flèche haut/Flèche bas : +/- vitesse de relecture"
+
+msgid "player_messages/replayFreeCameraActivated"
+msgstr "Caméra libre activée"
+
+msgid "player_messages/replayPaused"
+msgstr "Pause"
+
+msgid "player_messages/replaySavedCameraActivated"
+msgstr "Caméra verrouillée activée"
+
+msgid "player_messages/replaySpeedChange"
+msgstr "Vitesse de relecture : %(speed)sx"
+
+msgid "player_messages/tank_in_fire"
+msgstr "Char en feu !"
+
+msgid "players_panel/state/large/body"
+msgstr ""
+"Afficher les noms des joueurs, des cibles détruites, et des noms et icônes "
+"des véhicules"
+
+msgid "players_panel/state/large/header"
+msgstr "Panneau complet"
+
+msgid "players_panel/state/large/note"
+msgstr "(Appuyez sur Ctrl + Tab pour alterner entre les modes)"
+
+msgid "players_panel/state/medium/body"
+msgstr ""
+"Afficher les noms des joueurs, des cibles détruites, et des icônes des "
+"véhicules"
+
+msgid "players_panel/state/medium/header"
+msgstr "Moyen"
+
+msgid "players_panel/state/medium/note"
+msgstr "(Appuyez sur Ctrl + Tab pour alterner entre les modes)"
+
+msgid "players_panel/state/medium2/body"
+msgstr ""
+"Montrer tous les véhicules détruits par un joueur, nom et icône du véhicule "
+"du joueur."
+
+msgid "players_panel/state/medium2/header"
+msgstr "Moyen 2"
+
+msgid "players_panel/state/medium2/note"
+msgstr "(Appuyez sur Ctrl + Tab pour alterner entre les modes)"
+
+msgid "players_panel/state/none/body"
+msgstr "Masquer les panneaux des équipes"
+
+msgid "players_panel/state/none/header"
+msgstr "Aucun panneau"
+
+msgid "players_panel/state/none/note"
+msgstr "(Appuyez sur Ctrl + Tab pour alterner entre les modes)"
+
+msgid "players_panel/state/short/body"
+msgstr "Afficher les cibles détruites et les icônes des véhicules"
+
+msgid "players_panel/state/short/header"
+msgstr "Petit panneau"
+
+msgid "players_panel/state/short/note"
+msgstr "(Appuyez sur Ctrl + Tab pour alterner entre les modes)"
+
+msgid "players_panel/unknown_clan"
+msgstr "?empty?"
+
+msgid "players_panel/unknown_frags"
+msgstr "--"
+
+msgid "players_panel/unknown_name"
+msgstr "Ennemi"
+
+msgid "players_panel/unknown_vehicle"
+msgstr "..."
+
+msgid "players_panel/unknown_vehicleState"
+msgstr "------"
+
+msgid "postmortem/tips/exitHangar/label"
+msgstr "Retour au garage"
+
+msgid "postmortem/tips/exitHangar/text"
+msgstr ""
+"Échap > Retour au garage.\n"
+"Entrez en bataille avec un autre véhicule."
+
+msgid "postmortem/tips/observerMode/label"
+msgstr "Mode spectateur"
+
+msgid "postmortem/tips/observerMode/text"
+msgstr "Basculer entre les véhicules alliés."
+
+msgid "shells_kinds/ARMOR_PIERCING"
+msgstr ""
+"%(caliber)s mm perforant %(userString)s\n"
+"Dégâts %(damage)s\n"
+"Pénétration %(piercingPower)s"
+
+msgid "shells_kinds/ARMOR_PIERCING_CR"
+msgstr ""
+"%(caliber)s mm perforant rigide composite %(userString)s\n"
+"Dégâts %(damage)s\n"
+"Pénétration %(piercingPower)s"
+
+msgid "shells_kinds/ARMOR_PIERCING_HE"
+msgstr ""
+"%(caliber)s mm perforant explosif %(userString)s\n"
+"Dégâts %(damage)s\n"
+"Pénétration %(piercingPower)s"
+
+msgid "shells_kinds/HIGH_EXPLOSIVE"
+msgstr ""
+"%(caliber)s mm explosif %(userString)s\n"
+"Dégâts %(damage)s \n"
+"Pénétration %(piercingPower)s"
+
+msgid "shells_kinds/HOLLOW_CHARGE"
+msgstr ""
+"%(caliber)s mm explosif à charge creuse %(userString)s\n"
+"Dégâts %(damage)s \n"
+"Pénétration %(piercingPower)s"
+
+msgid "statistics/exit"
+msgstr "Appuyez sur Échap pour retourner au garage..."
+
+msgid "statistics/final/heroes"
+msgstr "?empty?"
+
+msgid "statistics/final/lifeInfo/alive"
+msgstr "?empty?"
+
+msgid "statistics/final/lifeInfo/dead"
+msgstr "Détruit par : %s"
+
+msgid "statistics/final/personal/capturePoints"
+msgstr "Capture de base : %d%%"
+
+msgid "statistics/final/personal/damaged"
+msgstr "Endommagé(s) :"
+
+msgid "statistics/final/personal/directHits"
+msgstr "Coups au but : %d"
+
+msgid "statistics/final/personal/directHitsReceived"
+msgstr "Tirs reçus : %d"
+
+msgid "statistics/final/personal/droppedCapturePoints"
+msgstr "Défense de base : %d%%"
+
+msgid "statistics/final/personal/killed"
+msgstr "Détruits :"
+
+msgid "statistics/final/personal/postmortem"
+msgstr "(post-mortem)"
+
+msgid "statistics/final/personal/shots"
+msgstr "Tirs : %d"
+
+msgid "statistics/final/personal/spotted"
+msgstr "Détecté(s) :"
+
+msgid "statistics/final/reasons/reason0"
+msgstr "?empty?"
+
+msgid "statistics/final/reasons/reason1lose"
+msgstr "Tous les véhicules alliés sont détruits."
+
+msgid "statistics/final/reasons/reason1tie"
+msgstr "Tous les véhicules sont détruits !"
+
+msgid "statistics/final/reasons/reason1win"
+msgstr "Tous les véhicules ennemis sont détruits."
+
+msgid "statistics/final/reasons/reason2"
+msgstr "Base capturée."
+
+msgid "statistics/final/reasons/reason3"
+msgstr "Temps de bataille écoulé !"
+
+msgid "statistics/final/stats/credits"
+msgstr "Crédits :"
+
+msgid "statistics/final/stats/experience"
+msgstr "Expérience :"
+
+msgid "statistics/final/stats/multipliedExp"
+msgstr "Expérience (x%d) :"
+
+msgid "statistics/final/stats/repair"
+msgstr "Réparations :"
+
+msgid "statistics/final/status/lose"
+msgstr "Défaite ! %s"
+
+msgid "statistics/final/status/tie"
+msgstr "Égalité ! %s"
+
+msgid "statistics/final/status/win"
+msgstr "Victoire ! %s"
+
+msgid "statistics/header"
+msgstr "Statistiques de bataille"
+
+msgid "statistics/headers/header0"
+msgstr "#"
+
+msgid "statistics/headers/header1"
+msgstr "Joueur"
+
+msgid "statistics/headers/header2"
+msgstr "Véhicule"
+
+msgid "statistics/headers/header3"
+msgstr "Condition"
+
+msgid "statistics/headers/header4"
+msgstr "Détruits"
+
+msgid "statistics/playerState/0"
+msgstr "Détruit"
+
+msgid "statistics/playerState/1"
+msgstr "Hors-combat"
+
+msgid "statistics/playerState/2"
+msgstr "Détruit"
+
+msgid "statistics/playerState/3"
+msgstr "En combat"
+
+msgid "statistics/playerState/4"
+msgstr "----"
+
+msgid "statistics/tabs/group"
+msgstr "Scores des équipes"
+
+msgid "statistics/tabs/heroes"
+msgstr "Héros de la bataille"
+
+msgid "statistics/tabs/personal"
+msgstr "Score personnel"
+
+msgid "statistics/team1title"
+msgstr "Notre équipe"
+
+msgid "statistics/team2title"
+msgstr "Équipe adverse"
+
+msgid "tankmen/commander"
+msgstr "Chef de char"
+
+msgid "tankmen/driver"
+msgstr "Pilote de char"
+
+msgid "tankmen/gunner"
+msgstr "Tireur"
+
+msgid "tankmen/loader"
+msgstr "Chargeur"
+
+msgid "tankmen/radioman"
+msgstr "Opérateur radio"
+
+msgid "timer/battlePeriod"
+msgstr "La bataille finit dans"
+
+msgid "timer/started"
+msgstr "C'est parti !"
+
+msgid "timer/starting"
+msgstr "La bataille commence dans"
+
+msgid "timer/waiting"
+msgstr "En attente de joueurs..."
+
+msgid "vehicle_messages/DEATH_FROM_DEATH_ZONE_ALLY_SELF"
+msgstr ""
+"Le véhicule a été détruit par l'allié %(entity)s dans une zone mortelle."
+
+msgid "vehicle_messages/DEATH_FROM_DEATH_ZONE_ENEMY_SELF"
+msgstr "Le véhicule a été détruit par %(entity)s dans une zone mortelle."
+
+msgid "vehicle_messages/DEATH_FROM_DEATH_ZONE_SELF_SUICIDE"
+msgstr "Le véhicule a été détruit dans une zone mortelle."
+
+msgid "vehicle_messages/DEATH_FROM_DROWNING_ALLY_SELF"
+msgstr "Le véhicule a été coulé par l'allié %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_DROWNING_ENEMY_SELF"
+msgstr "Le véhicule a été coulé par %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_DROWNING_SELF_SUICIDE"
+msgstr "Le véhicule a coulé."
+
+msgid "vehicle_messages/DEATH_FROM_FIRE"
+msgstr "Le char a été détruit par l'incendie."
+
+msgid "vehicle_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ALLY_SELF"
+msgstr ""
+"L'équipage est hors de combat suite à l'impact avec l'allié %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_ENEMY_SELF"
+msgstr "L'équipage est hors de combat suite à l'impact avec %(entity)s."
+
+msgid ""
+"vehicle_messages/DEATH_FROM_INACTIVE_CREW_AT_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "L'équipage est hors de combat suite à la collision."
+
+msgid "vehicle_messages/DEATH_FROM_RAMMING_ALLY_SELF"
+msgstr "L'allié %(entity)s a détruit le véhicule par collision."
+
+msgid "vehicle_messages/DEATH_FROM_RAMMING_ENEMY_SELF"
+msgstr "%(entity)s a détruit le véhicule par collision."
+
+msgid "vehicle_messages/DEATH_FROM_RAMMING_SELF_SUICIDE"
+msgstr "Le véhicule a été détruit par collision."
+
+msgid "vehicle_messages/DEATH_FROM_SHOT"
+msgstr "Le char a été détruit par un tir de %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_WORLD_COLLISION_ALLY_SELF"
+msgstr "Le véhicule a été écrasé par l'allié %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_WORLD_COLLISION_ENEMY_SELF"
+msgstr "Le véhicule a été écrasé par l'ennemi %(entity)s."
+
+msgid "vehicle_messages/DEATH_FROM_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "Le véhicule s'est écrasé."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_ALLY_ALLY"
+msgstr "L'allié %(entity)s a endommagé l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_ALLY_SELF"
+msgstr "L'allié %(entity)s a endommagé l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_ALLY_SUICIDE"
+msgstr "L'élément [%(device)s] a été endommagé par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_ENEMY_ALLY"
+msgstr "L'ennemi %(entity)s a endommagé l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_ENEMY_SELF"
+msgstr "L'ennemi %(entity)s a endommagé l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_RAMMING_SELF_SUICIDE"
+msgstr "L'élément [%(device)s] a été endommagé par collision."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_ALLY_ALLY"
+msgstr ""
+"L'allié %(entity)s a endommagé l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_ALLY_SELF"
+msgstr ""
+"L'allié %(entity)s a endommagé l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_ALLY_SUICIDE"
+msgstr "L'élément [%(device)s] a été endommagé suite au choc."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_ENEMY_ALLY"
+msgstr ""
+"L'ennemi %(entity)s a endommagé l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_ENEMY_SELF"
+msgstr ""
+"L'ennemi %(entity)s a endommagé l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_CRITICAL_AT_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "L'élément [%(device)s] a été endommagé suite au choc."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_ALLY_ALLY"
+msgstr "L'allié %(entity)s a détruit l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_ALLY_SELF"
+msgstr "L'allié %(entity)s a détruit l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_ALLY_SUICIDE"
+msgstr "L'élément [%(device)s] a été détruit par la collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_ENEMY_ALLY"
+msgstr "L'ennemi %(entity)s a détruit l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_ENEMY_SELF"
+msgstr "L'ennemi %(entity)s a détruit l'élément [%(device)s] par collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_RAMMING_SELF_SUICIDE"
+msgstr "L'élément [%(device)s] a été détruit par la collision."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_ALLY_ALLY"
+msgstr "L'allié %(entity)s a détruit l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_ALLY_SELF"
+msgstr "L'allié %(entity)s a détruit l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_ALLY_SUICIDE"
+msgstr "L'élément [%(device)s] a été détruit lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_ENEMY_ALLY"
+msgstr "L'ennemi %(entity)s a détruit l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_ENEMY_SELF"
+msgstr "L'ennemi %(entity)s a détruit l'élément [%(device)s] lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_DESTROYED_AT_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "L'élément [%(device)s] a été détruit lors de l'impact."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_ALLY_ALLY"
+msgstr ""
+"L'élément [%(device)s] a pris feu suite à la collision avec l'allié "
+"%(entity)s."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_ALLY_SELF"
+msgstr ""
+"L'élément [%(device)s] a pris feu suite à la collision avec l'allié "
+"%(entity)s."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_ALLY_SUICIDE"
+msgstr "L'élément [%(device)s] a pris feu suite à la collision."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_ENEMY_ALLY"
+msgstr ""
+"L'élément [%(device)s] a pris feu suite à la collision par l'ennemi "
+"%(entity)s."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_ENEMY_SELF"
+msgstr ""
+"L'élément [%(device)s] a pris feu suite à la collision par l'ennemi "
+"%(entity)s."
+
+msgid "vehicle_messages/DEVICE_STARTED_FIRE_AT_RAMMING_SELF_SUICIDE"
+msgstr "L'élément [%(device)s] a pris feu suite à la collision."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_ALLY_ALLY"
+msgstr ""
+"[%(device)s] a été blessé lors de la collision avec l'allié %(entity)s."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_ALLY_SELF"
+msgstr ""
+"[%(device)s] a été blessé lors de la collision avec l'allié %(entity)s."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_ALLY_SUICIDE"
+msgstr "[%(device)s] blessé lors de la collision."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_ENEMY_ALLY"
+msgstr ""
+"[%(device)s] a été blessé lors de la collision avec l'ennemi %(entity)s."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_ENEMY_SELF"
+msgstr ""
+"[%(device)s] a été blessé lors de la collision avec l'ennemi %(entity)s."
+
+msgid "vehicle_messages/TANKMAN_HIT_AT_WORLD_COLLISION_SELF_SUICIDE"
+msgstr "[%(device)s] blessé lors de la collision."
