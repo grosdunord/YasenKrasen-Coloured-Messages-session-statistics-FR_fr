@@ -1,6 +1,4 @@
 YasenKrasen-Coloured-Messages-session-statistics-FR_fr
 
-creer par fekasatete
-
-ajout dans le readme plus tard dsl
+Traduction FR du mod 'YasenKrasen' messenger de Mehanizm traduit en anglais par _Jeso_.
 ======================================================
